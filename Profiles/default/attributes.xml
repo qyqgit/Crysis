@@ -1,0 +1,9 @@
+<Attributes Version="8">
+ <Attr name="Option.fsaa_mode" value=""/>
+ <Attr name="OptionCfg.g_blood" value="1"/>
+ <Attr name="OptionCfg.hud_subtitles" value="1"/>
+ <Attr name="OptionCfg.r_Height" value="2160"/>
+ <Attr name="OptionCfg.r_Width" value="3840"/>
+ <Attr name="Singleplayer.LastSavedGame" value="30_Assault_02m_50s.CRYSISJMSF"/>
+ <Attr name="Singleplayer.SaveRunningID" value="31"/>
+</Attributes>
