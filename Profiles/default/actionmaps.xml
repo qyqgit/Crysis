@@ -61,33 +61,6 @@
   <action name="xi_voice_chat_talk" onPress="1" onRelease="1">
    <key name="xi_b"/>
   </action>
-  <action name="hud_openteamchat" onPress="1">
-   <key name="u"/>
-  </action>
-  <action name="hud_mousewheelup" onPress="1">
-   <key name="mwheel_up"/>
-  </action>
-  <action name="hud_mousewheeldown" onPress="1">
-   <key name="mwheel_down"/>
-  </action>
-  <action name="hud_mouserightbtndown" onPress="1">
-   <key name="mouse2"/>
-  </action>
-  <action name="hud_mouserightbtnup" onRelease="1">
-   <key name="mouse2"/>
-  </action>
-  <action name="hud_show_multiplayer_scoreboard" onPress="1">
-   <key name="tab"/>
-  </action>
-  <action name="hud_hide_multiplayer_scoreboard" onRelease="1">
-   <key name="tab"/>
-  </action>
-  <action name="hud_toggle_scoreboard_cursor" onPress="1" onRelease="1">
-   <key name="space"/>
-  </action>
-  <action name="hud_show_pda_map" onPress="1">
-   <key name="m"/>
-  </action>
   <action name="attack1" onPress="1" onRelease="1">
    <key name="mouse1"/>
    <key name="xi_triggerr_btn"/>
@@ -134,6 +107,42 @@
   <action name="hud_openchat" onPress="1">
    <key name="y"/>
   </action>
+  <action name="hud_openteamchat" onPress="1">
+   <key name="u"/>
+  </action>
+  <action name="hud_mousewheelup" onPress="1">
+   <key name="mwheel_up"/>
+  </action>
+  <action name="hud_mousewheeldown" onPress="1">
+   <key name="mwheel_down"/>
+  </action>
+  <action name="hud_mouserightbtndown" onPress="1">
+   <key name="mouse2"/>
+  </action>
+  <action name="hud_mouserightbtnup" onRelease="1">
+   <key name="mouse2"/>
+  </action>
+  <action name="hud_show_multiplayer_scoreboard" onPress="1">
+   <key name="tab"/>
+  </action>
+  <action name="hud_hide_multiplayer_scoreboard" onRelease="1">
+   <key name="tab"/>
+  </action>
+  <action name="hud_toggle_scoreboard_cursor" onPress="1" onRelease="1">
+   <key name="space"/>
+  </action>
+  <action name="hud_show_pda_map" onPress="1">
+   <key name="m"/>
+  </action>
+  <action name="xi_hud_show_pda_map" onPress="1" onRelease="1">
+   <key name="xi_start"/>
+  </action>
+  <action name="hud_night_vision" onPress="1">
+   <key name="i"/>
+  </action>
+  <action name="hud_mptutorial_disable" onPress="1">
+   <key name="end"/>
+  </action>
   <action name="hud_buy_weapons" onPress="1">
    <key name="p"/>
    <key name="xi_dpad_right"/>
@@ -162,15 +171,6 @@
   </action>
   <action name="hud_select5" onPress="1">
    <key name="5"/>
-  </action>
-  <action name="xi_hud_show_pda_map" onPress="1" onRelease="1">
-   <key name="xi_start"/>
-  </action>
-  <action name="hud_night_vision" onPress="1">
-   <key name="i"/>
-  </action>
-  <action name="hud_mptutorial_disable" onPress="1">
-   <key name="end"/>
   </action>
   <action name="buyammo" onPress="1" consoleCmd="1">
    <key name="period"/>
