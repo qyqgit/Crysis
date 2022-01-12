@@ -107,6 +107,35 @@
   <action name="hud_openchat" onPress="1">
    <key name="y"/>
   </action>
+  <action name="hud_buy_weapons" onPress="1">
+   <key name="p"/>
+   <key name="xi_dpad_right"/>
+  </action>
+  <action name="hud_pda_scroll" onPress="1">
+   <key name="backspace"/>
+  </action>
+  <action name="xi_hud_back" onPress="1" onRelease="1">
+   <key name="xi_back"/>
+  </action>
+  <action name="hud_suit_mod" onPress="1" onRelease="1">
+   <key name="v"/>
+   <key name="xi_triggerl_btn"/>
+  </action>
+  <action name="hud_select1" onPress="1">
+   <key name="1"/>
+  </action>
+  <action name="hud_select2" onPress="1">
+   <key name="2"/>
+  </action>
+  <action name="hud_select3" onPress="1">
+   <key name="3"/>
+  </action>
+  <action name="hud_select4" onPress="1">
+   <key name="4"/>
+  </action>
+  <action name="hud_select5" onPress="1">
+   <key name="5"/>
+  </action>
   <action name="hud_openteamchat" onPress="1">
    <key name="u"/>
   </action>
@@ -142,35 +171,6 @@
   </action>
   <action name="hud_mptutorial_disable" onPress="1">
    <key name="end"/>
-  </action>
-  <action name="hud_buy_weapons" onPress="1">
-   <key name="p"/>
-   <key name="xi_dpad_right"/>
-  </action>
-  <action name="hud_pda_scroll" onPress="1">
-   <key name="backspace"/>
-  </action>
-  <action name="xi_hud_back" onPress="1" onRelease="1">
-   <key name="xi_back"/>
-  </action>
-  <action name="hud_suit_mod" onPress="1" onRelease="1">
-   <key name="v"/>
-   <key name="xi_triggerl_btn"/>
-  </action>
-  <action name="hud_select1" onPress="1">
-   <key name="1"/>
-  </action>
-  <action name="hud_select2" onPress="1">
-   <key name="2"/>
-  </action>
-  <action name="hud_select3" onPress="1">
-   <key name="3"/>
-  </action>
-  <action name="hud_select4" onPress="1">
-   <key name="4"/>
-  </action>
-  <action name="hud_select5" onPress="1">
-   <key name="5"/>
   </action>
   <action name="buyammo" onPress="1" consoleCmd="1">
    <key name="period"/>
